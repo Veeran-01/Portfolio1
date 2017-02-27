@@ -1,0 +1,8 @@
+header {
+    background-image: url(../img/blossomTree.jpg);
+}
+header .intro-text .intro-heading {
+    text-shadow: 2px 2px darkslategrey;
+    font-family: 'Great Vibes', cursive;
+    text-transform: none;}
+
