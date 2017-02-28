@@ -1,0 +1,60 @@
+header {
+    background-image: url(../img/blossomTree.jpg);
+}
+header .intro-text .intro-heading {
+    text-shadow: 4px 4px darkslategrey;
+    font-family: 'Great Vibes', cursive;
+    text-transform: none;
+    font-size: 100px;
+
+}
+.navbar-custom .nav li a, .navbar-custom .navbar-toggle {
+    text-shadow: 1px 2px darkgrey;
+    font-size: large;
+}
+
+.navbar-custom.affix {
+    background-color: #e8b3b2;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+i, cite, em, var, address, dfn {
+    font-style: italic;
+    font-size: medium;
+}
+
+/*logos*/
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    height: 100%;}
+
+section#contact {
+    background-image: url(../img/BlossomFooter.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+form-control.placeholder{
+font-weight: bold;
+color: black;}
+
+.timeline-image h3{
+    color: aliceblue;
+    font-size: 22px;
+    margin-top: 50px;
+}
+
+section#contact ::-webkit-input-placeholder {
+    
+    color: lightslategrey!important;
+}
+
+p.help-block.text-danger{
+    text-shadow: 0.5px 0.5px #222;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
